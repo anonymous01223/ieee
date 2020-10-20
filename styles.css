@@ -1,0 +1,61 @@
+.navb{ 
+    font-family: "ubuntu";
+    color: grey;
+    font-size: 1.2rem;
+    padding: 2px;
+    margin: 10px;
+    border-radius: 40px;
+}
+.ieee-bg{
+    background-image: url("./images/bg.jpg");
+    background-size: cover;
+}
+.logo{
+    width: 30%;
+}
+.navlogo{
+    margin: 10px;
+}
+h2{
+    color: grey;
+    margin: 30px;
+}
+.navb:hover{
+    background-color: #fff;
+    color: black;
+}
+
+.heart{
+    size: 20%;
+}
+#features{
+    background-color:#fff;
+    padding: 7% 0% 7% 9%;
+    position: relative;
+    z-index: 1;
+}
+.feature-box{
+    text-align: center;
+    padding: 3%;
+}
+h3{
+    font-weight: bolder;
+    color: #000;
+}
+.icon{
+    color: #ef872e;
+}
+.icon:hover{
+    color:#ff4c68;
+}
+.carousels{
+    width: 90%
+}
+.caro{
+    text-align: center;
+    padding-left: 40px;
+}
+.carose{
+    position: relative;
+    left: 50px;
+}
